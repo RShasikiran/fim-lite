@@ -58,7 +58,9 @@ Compare the current state of the directory against your saved baseline:
 python fim.py -d ./target_folder
 ```
 ##⚙️ Command-Line Arguments
-
+```
 -d, --dir: Path to the directory you want to monitor (Required).
-
+```
+```
 --init: Flag to create or overwrite the baseline snapshot.
+```
